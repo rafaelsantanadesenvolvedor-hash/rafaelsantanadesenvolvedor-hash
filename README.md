@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rafael Santana!👋
 
-Tenho 17 anos e sou APAIXONADO em Desenvolvimento de Sistema. Eu estudo no SENAI e estou muito focado em construir aplicações práticas, melhorar minhas habilidades de tecnologia, continuar aprendendo tudo que essa área maravilhosa pode me ensinar e, saber resolver problemas e criar códigos limpos.
+Tenho 17 anos e sou APAIXONADO em Desenvolvimento de Sistema. Eu estudo no SENAI e estou muito focado em construir aplicações práticas, melhorar minhas habilidades de tecnologia, continuar aprendendo tudo que essa área maravilhosa pode me ensinar e saber resolver problemas.
 
 Atualmente, estou desenvolvendo projetos pessoais para consolidar minha base técnica e busco minha primeira oportunidade na área de tecnologia (Estágio, Jovem Aprendiz ou Júnior).
 
